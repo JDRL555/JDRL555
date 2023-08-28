@@ -10,10 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdrl555&label=Profile%20views&color=0e75b6&style=flat" alt="jdrl555" /> </p>
 
 <h2 align="left">🧑‍💼 My Soft Skills:</h2>
-- 🕷️ **Optimal bug solving**
-- 🤝 **Teamwork**
-- ✔️ **Coding good practices**
-- 📈 **Scalable software**
+<ul>
+  <li>🕷️ <b>Optimal bug solving</b></li>
+  <li>🤝 <b>Teamwork</b></li>
+  <li>✔️ <b>Coding good practices</b></li>
+  <li>📈 <b>Scalable software</b></li>
+</ul>
 
 <h2 align="left">👨‍💻 My Tech Skills:</h2>
 <table>
