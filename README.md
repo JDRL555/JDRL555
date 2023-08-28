@@ -9,14 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdrl555&label=Profile%20views&color=0e75b6&style=flat" alt="jdrl555" /> </p>
 
-<h2 align="left">🧑‍💼 My Soft Skills:</h2>
-<ul>
-  <li>🕷️ <b>Optimal bug solving</b></li>
-  <li>🤝 <b>Teamwork</b></li>
-  <li>✔️ <b>Coding good practices</b></li>
-  <li>📈 <b>Scalable software</b></li>
-</ul>
-
 <h2 align="left">👨‍💻 My Tech Skills:</h2>
 <table>
   <tr>
@@ -95,6 +87,14 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left">🧑‍💼 My Soft Skills:</h2>
+<ul>
+  <li>🕷️ <b>Optimal bug solving</b></li>
+  <li>🤝 <b>Teamwork</b></li>
+  <li>✔️ <b>Coding good practices</b></li>
+  <li>📈 <b>Scalable software</b></li>
+</ul>
   
 <h2 align="left">📊 Github Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdrl555&show_icons=true&locale=en&layout=compact" alt="jdrl555" /></p>
