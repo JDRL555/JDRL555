@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web Developer 💻 and Web Development Advisor 👨‍🏫</h3>
 
 <p align="justify" width="60px"> 
-  Experienced in web development with 2 years of experience in the development of high quality software and high efficiency, handling technologies that correspond to both the backend and frontend, focused on improving my skills and updating my knowledge. I'm also a web development and programming advisor.
+  Skilled Web Developer with 2 + years of experience developing high-quality with high-efficiency, handling technologies that correspond to both the backend and frontend, focused on improving my skills and updating my knowledge.
 </p>
 
 📬 How to contact me: **joshuleal3@gmail.com**
@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/SASS-black?logo=sass" alt="sass"/> 
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/BOOTSTRAP-black?logo=bootstrap" alt="bootstrap"/> 
+        <img src="https://img.shields.io/badge/TAILWINDCSS-black?logo=tailwindcss" alt="tailwindcss"/> 
       </a>
       <br>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
