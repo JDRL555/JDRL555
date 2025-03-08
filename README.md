@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web Developer 💻 and Web Development Advisor 👨‍🏫</h3>
 
 <p align="justify" width="60px"> 
-  Skilled Web Developer with 2 + years of experience developing high-quality with high-efficiency, handling technologies that correspond to both the backend and frontend, focused on improving my skills and updating my knowledge.
+  Skilled Web Developer with 4 + years of experience developing high-quality with high-efficiency, handling technologies that correspond to both the backend and frontend, focused on improving my skills and updating my knowledge.
 </p>
 
 📬 How to contact me: **joshuleal3@gmail.com**
